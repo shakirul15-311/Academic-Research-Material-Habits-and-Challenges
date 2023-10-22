@@ -17,4 +17,4 @@ Furthermore, we presented RaMSeS as a valuable model that illustrates the resear
 - A discussion that identifies research directions and challenges for academic document collection creation and curation.
 
 ![: Survey Results: The answers ranking questions (SQ9, SQ12 and SQ20) are in ascending order, with the left choices
-having lower cumulative averages.](Results-2.pdf)
+having lower cumulative averages.](Results-2.svg)
