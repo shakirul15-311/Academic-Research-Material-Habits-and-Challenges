@@ -1,7 +1,7 @@
+![RaMSeS Logo](RaMSeS.gif | width=100)
+
 # Academic-Research-Material-Habits-and-Challenges
 Expanded RMS insights, diversified the sample geographically, introduced RaMSeS model, and conducted surveys for research practices. Analyzed responses, revealing trends, RMS satisfaction, and suggestions. Discussed challenges in academic document collection and curation.
-
-![RaMSeS Logo](RaMSeS.gif)
 
 # Project Description
 This project aimed to enhance insights into Reference Management Systems (RMS) utilization by broadening the analysis to encompass the academic document composition. It also sought to increase the geographical diversity in the sample to gain a comprehensive understanding of research practices. We introduced the RaMSeS model, delineating the academic document collection management process within the context of academic document creation.
