@@ -12,6 +12,10 @@ We also gathered valuable suggestions for future tool development aimed at enhan
 
 Furthermore, we presented RaMSeS as a valuable model that illustrates the researcher's journey from information seeking/synthesis to final report/result writing. Additionally, we engaged in a discussion to identify research directions and challenges in academic document collection creation and curation.
 
+# Research Questions
+
+# Survey Questions
+
 # Key Contributions
 
 - Results from an online survey involving 100 academic researchers, providing valuable insights into research material collection and curation habits and challenges.
