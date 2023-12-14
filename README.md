@@ -22,6 +22,9 @@ Furthermore, we presented RaMSeS as a valuable model that illustrates the resear
 # Survey Questions
 [Survey Questions](Survey_Questions_v8_jan31.pdf)
 
+## Dataset
+Dataset (DataSet_RaMSeS.xlsx) is published without any idintification of participants. It contains 2 sheets, one with survey responses another with encoded for analysis!
+
 # Key Contributions
 
 - Results from an online survey involving 100 academic researchers, providing valuable insights into research material collection and curation habits and challenges.
