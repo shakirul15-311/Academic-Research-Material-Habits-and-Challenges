@@ -13,10 +13,14 @@ We also gathered valuable suggestions for future tool development aimed at enhan
 Furthermore, we presented RaMSeS as a valuable model that illustrates the researcher's journey from information seeking/synthesis to final report/result writing. Additionally, we engaged in a discussion to identify research directions and challenges in academic document collection creation and curation.
 
 # Research Questions
+- **RQ1** - What are the typical researcher reading habits? E.g., do researchers read individual articles before collecting them? How much of an article is read before and after collecting?
+- **RQ2** - What are the typical summarization and notetaking practices? E.g., when do researchers take notes or summarize?
+- **RQ3** - How do researchers populate and maintain their collections? E.g., how do researchers process the article collections? Do researchers feel that RMS supports them in processing collections?
+- **RQ4** - How do researchers eventually transform what they have read and collected into writing? E.g., to what extent do they rely on their collections when writing?
+
 
 # Survey Questions
 [Survey Questions](Survey_Questions_v8_jan31.pdf)
-<iframe width="100%" height="800" src="Survey_Questions_v8_jan31.pdf">
 
 # Key Contributions
 
