@@ -1,7 +1,8 @@
 <img src="https://github.com/shakirul15-311/RaMSeS/blob/main/RaMSeS.gif" width="150" height="150">
 
 # Academic-Research-Material-Habits-and-Challenges
-Expanded RMS insights, diversified the sample geographically, introduced Researcher’s Management of Search and Storage (RaMSeS) model, and conducted surveys for research practices. Analyzed responses, revealing trends, RMS satisfaction, and suggestions. Discussed challenges in academic document collection and curation.
+In our study, we explored how early career researchers manage the vast amount of academic literature required for their work. We introduced the Researcher's Management of Search and Storage (RaMSeS) model, a comprehensive framework designed to streamline the entire research process, from initial literature search to final report composition. Through an extensive survey, we identified distinct behaviors among researchers, including their reading, note-taking, and document management practices. Our findings offer insights into the development of more effective tools and strategies to support researchers in navigating the complexities of academic literature, enhancing productivity and contributing to more impactful research outcomes.
+
 
 # Project Description
 This project aimed to enhance insights into Reference Management Systems (RMS) utilization by broadening the analysis to encompass the academic document composition. It also sought to increase the geographical diversity in the sample to gain a comprehensive understanding of research practices. We introduced the RaMSeS model, delineating the academic document collection management process within the context of academic document creation.
